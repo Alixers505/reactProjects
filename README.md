@@ -8,3 +8,6 @@ A tic-tac-toe game created from [React's tutorial](https://reactjs.org/tutorial/
 - Indicates when a player has won the game
 - Stores a game’s history as the game progresses
 - Allows players to review a game’s history and see previous versions of a game’s board
+
+## BTHolt Pet App
+A pet adoption application from Front End Master's Complete Intro to React v8 taught by Brian Holt
